@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">SberTexJunior</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!--//-->
+    <string name="nav_header_name">Welcome! Booking shop</string>
+    <!--//-->
+    <string name="powered_by">powered by</string>
+    <string name="resource_data">newsapi.org</string>
+    <!--//-->
+    <string name="menu_goods">goods</string>
+    <string name="menu_basket">basket</string>
+    <string name="menu_delivery">delivery</string>
+    <!--//-->
+    <string name="recyler_menu_add">Add</string>
+    <string name="recyler_menu_del">Delete</string>
+    <!--//-->
+    <string name="dlg_execution">Data refresh…</string>
+    <!--//-->
+    <string name="dlg_filter_title">Filter</string>
+    <string name="dlg_filter_message">set your filter</string>
+    <string name="dlg_filter_author">author filter</string>
+    <string name="dlg_filter_button">Apply</string>
+    <string name="dlg_delivery_title">Delivery</string>
+    <string name="dlg_delivery_message">make your order</string>
+    <string name="dlg_delivery_address">enter your address</string>
+    <string name="dlg_delivery_totalCost">Total cost your order is</string>
+    <string name="dlg_delivery_totalCostRub">RUB</string>
+    <string name="dlg_delivery_button">Order</string>
+    <!--//-->
+    <string name="dlg_delivery_warning">add some goods to basket</string>
+    <string name="dlg_delivery_accepted">Order is accepted\nThank you for your order!</string>
+    <string name="dlg_delivery_rejected">Order is rejected\nPlease, try later…</string>
+    <!--//-->
+    <string name="newsApi_URL">https://newsapi.org/v1/articles?</string>
+    <string name="newsApi_source">source=</string>
+    <string name="newsApi_source_value_techcrunch">techcrunch</string>
+    <string name="newsApi_source_value_hacker_news">hacker-news</string>
+    <string name="newsApi_source_value_recode">recode</string>
+    <string name="newsApi_apiKey">&amp;apiKey=</string>
+    <!--//-->
+    <string name="newsApiParse_status">status</string>
+    <string name="newsApiParse_source">source</string>
+    <string name="newsApiParse_sortBy">sortBy</string>
+    <string name="newsApiParse_articles">articles</string>
+    <string name="newsApiParse_author">author</string>
+    <string name="newsApiParse_title">title</string>
+    <string name="newsApiParse_description">description</string>
+    <string name="newsApiParse_publishedAt">publishedAt</string>
+    <!--//-->
+    <string name="FunnyError">something went wrong…\n\n</string>
+</resources>
